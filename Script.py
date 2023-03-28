@@ -193,6 +193,15 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
+<b>
+╭─────── • ◆ • ───────╮
+🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+╰─────── • ◆ • ───────╯
+=========== • ✠ • ===========
+▫️ ᴄʜᴀɴɴᴇʟ : @ROCKERSBACKUP 
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @Beastonejnanesh 
+=========== • ✠ • ===========</b>"""
+
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
