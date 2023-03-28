@@ -1611,7 +1611,6 @@ async def advantage_spell_chok(client, msg):
     ]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spol#{reqstr1}#close_spellcheck')])
     spell_check_del = await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
-    )
     try:
         if settings['auto_delete']:
             await asyncio.sleep(60)
